@@ -37,7 +37,7 @@ Welcome to the NLP Documentation repository! This is your go-to guide for practi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/NLP-Documentation.git
+   git clone https://github.com/RaflyQowi/Basic-NLP-Documentation.git
    ```
 
 2. Explore the folders and run the Python files to understand and implement NLP techniques and machine learning models.
