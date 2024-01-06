@@ -23,6 +23,15 @@ Welcome to the NLP Documentation repository! This is your go-to guide for practi
 - **News Classification:** Applying Bag of N-grams for classifying news articles.
 - **E-commerce Product Classification:** Using TF-IDF for classifying e-commerce products.
 
+## 3. Text Preprocessing 3
+
+- **Word2Vec:** Implementing Word2Vec using the Gensim library for feature extraction on text.
+  Machine Learning Implementations
+
+### Machine Learning Implementations
+
+- **Star Review Classification:** Using Word2Vec for predicting user star reviews based on their text reviews. Utilizing both a custom Word2Vec model and a pretrained model from the Gensim library.
+
 ## Getting Started
 
 1. Clone the repository:
